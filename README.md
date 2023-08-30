@@ -27,6 +27,16 @@ class About extends Me
         ];
     }
 
+    public function getEducation(): array
+    {
+        return [
+            'university' => [
+                'name' => 'Instituto Politécnico de Leiria',
+                'course' => 'Web Development and Multimedia'         
+            ]
+        ];
+    }
+
     public function getDailyKnowledge(): array
     {
         return [
