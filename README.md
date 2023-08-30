@@ -61,4 +61,8 @@ class About extends Me
 <!-- Contact Links -->
 [<img src="https://img.shields.io/badge/contact@barbarasobrinho.com-0D1117?style=for-the-badge&logo=gmail&logoColor=E64DA1" target="_blank"/>](https://github.com/babsobrinho) [<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E64DA1" target="_blank"/>](https://www.linkedin.com/in/babsobrinho)
 
-![Snake Animation](https://github.com/babsobrinho/babsobrinho/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babsobrinho/babsobrinho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babsobrinho/babsobrinho/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/babsobrinho/babsobrinho/output/github-contribution-grid-snake.svg">
+</picture>
