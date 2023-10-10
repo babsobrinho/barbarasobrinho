@@ -3,13 +3,6 @@
 ##
 <br/>
 
-<!-- Profile Info 
-
-'workplace' => [
-  'company' => '',
-  'position' => ''
-
--->
 ```php
 <?php
 
@@ -20,9 +13,9 @@ class About extends Me
     public function getCurrentSituation(): array
     {
         return [
-            'unemployed' => [
-                'seeking' => 'Remote Job',
-                'position' => 'Junior Web Developer'         
+            'workplace' => [
+              'company' => 'Daniela Tomás',
+              'position' => 'Full-stack Web Developer'       
             ]
         ];
     }
