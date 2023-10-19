@@ -14,7 +14,7 @@ class About extends Me
     {
         return [
             'workplace' => [
-              'company' => 'Daniela Tomás',
+              'company' => 'Daniela Tomás - Consultoria de Gestão',
               'position' => 'Full-stack Web Developer'       
             ]
         ];
@@ -49,10 +49,10 @@ class About extends Me
 ```
 
 <!-- GitHub Stats -->
-[<img src="https://streak-stats.demolab.com?user=babsobrinho&theme=omni&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1280" target="_blank"/>](https://github.com/babisobrinho)
+[<img src="https://streak-stats.demolab.com?user=babisobrinho&theme=omni&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1280" target="_blank"/>](https://github.com/babisobrinho)
 
 <!-- Contact Links -->
-[<img src="https://img.shields.io/badge/contact@barbarasobrinho.com-0D1117?style=for-the-badge&logo=gmail&logoColor=E64DA1" target="_blank"/>](https://github.com/babsobrinho) [<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E64DA1" target="_blank"/>](https://www.linkedin.com/in/babisobrinho)
+[<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E64DA1" target="_blank"/>](https://www.linkedin.com/in/babisobrinho)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babsobrinho/babsobrinho/output/github-contribution-grid-snake-dark.svg">
