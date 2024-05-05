@@ -14,9 +14,9 @@ class About extends Me
     public function getCurrentSituation(): array
     {
         return [
-            'workplace' => [
-              'company' => 'Daniela Tomás - Consultoria de Gestão',
-              'position' => 'Full-stack Web Developer'       
+            'openToWork' => [
+              'type' => 'Full-time',
+              'position' => 'Project Manager'       
             ]
         ];
     }
@@ -26,7 +26,7 @@ class About extends Me
         return [
             'university' => [
                 'name' => 'Instituto Politécnico de Leiria',
-                'course' => 'Web Development and Multimedia'         
+                'course' => 'Web Development & Multimedia'         
             ]
         ];
     }
